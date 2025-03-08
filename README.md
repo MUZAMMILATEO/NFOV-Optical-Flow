@@ -26,6 +26,5 @@ A detailed comparison with recently published works is presented to demonstrate 
 and accuracy of the proposed model.
 
 ## Figure  
-![Figure 1: Estimated optical flow fields corresponding to Grove2 and Tortoise datasets in terms of color maps and vector plots.](figures/fig01.png)
-
-
+![Figure 1](figures/fig01.png)
+**Figure 1:** Estimated optical flow fields corresponding to Grove2 and Tortoise datasets in terms of color maps and vector plots.
