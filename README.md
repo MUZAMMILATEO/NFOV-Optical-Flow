@@ -31,29 +31,13 @@ and accuracy of the proposed model.
 </p>
 
 ## Figure  
-<div style="display: flex; justify-content: center;">
-<table>
-    <tr>
-        <td><img src="figures/fig01.png" alt="Figure 1" width="95%"></td>
-    </tr>
-    <tr>
-        <td align="center"><strong>Figure 1:</strong> Estimated optical flow fields corresponding to Grove2 and Tortoise datasets in terms of color maps and vector plots.</td>
-    </tr>
-</table>
-</div>
+![Figure 1](figures/fig01.png)
+**Figure 1:** Estimated optical flow fields corresponding to Grove2 and Tortoise datasets in terms of color maps and vector plots.
 
-<br><be>
+<br><br>
 
-<div style="display: flex; justify-content: center;">
-<table>
-    <tr>
-        <td><img src="figures/fig02.png" alt="Figure 1" width="95%"></td>
-    </tr>
-    <tr>
-        <td align="center"><strong>Figure 1:</strong> GT vectors overlapped with the estimated vectors (top left); influence of smoothing parameter over added noise (top right); effect of fractional order $\alpha$ on AAE (bottom left) and WE (bottom right).</td>
-    </tr>
-</table>
-</div>
+![Figure 2](figures/fig02.png)
+**Figure 2:** GT vectors overlapped with the estimated vectors (top left); influence of smoothing parameter over added noise (top right); effect of fractional order $\alpha$ on AAE (bottom left) and WE (bottom right).
 
 ---
 
