@@ -38,3 +38,22 @@ and accuracy of the proposed model.
 
 ![Figure 2](figures/fig02.png)
 **Figure 2:** GT vectors overlapped with the estimated vectors (top left); influence of smoothing parameter over added noise (top right); effect of fractional order $\alpha$ on AAE (bottom left) and WE (bottom right).
+
+---
+
+## Citation
+
+If you use our code in your research, please consider citing our work using the following BibTeX entry:
+
+```bibtex
+@article{khan2022nonlinear,
+  title={A nonlinear modeling of fractional order based variational model in optical flow estimation},
+  author={Khan, Muzammil and Kumar, Pushpendra},
+  journal={Optik},
+  volume={261},
+  pages={169136},
+  year={2022},
+  publisher={Elsevier}
+}
+
+
